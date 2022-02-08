@@ -1,3 +1,3 @@
-# Marvel Wordle
+# Romanian Wordle
 
-Fan made Wordle edition with Marvel words
+Wordle edition with Romanian words
